@@ -1,0 +1,15 @@
+div.CutScene {
+    text-align: center;
+}
+
+div.CutScene > img {
+    width: 150px;
+    margin-left: calc(50% - 75px);
+    position: absolute;
+    top: 15%;
+}
+
+div.CutScene > div {
+    position: absolute;
+    top: 45%;
+}

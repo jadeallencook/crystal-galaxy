@@ -1,0 +1,9 @@
+{
+  "start": {
+    "type": "cut-scene",
+    "next": "crash-landing"
+  },
+  "crash-landing": {
+    "type": "explorable-map"
+  }
+}
